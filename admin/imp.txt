@@ -1,0 +1,7 @@
+line 67
+
+<td><input type="text" id="tt<?php echo $i ?>" value="<?php echo $qty_session; ?>" >&nbsp;<i class="fa fa-refresh" style="font-size:24px" onclick="edit_qty(document.getElementById('tt<?php echo $i ?>').value,'<?php echo $company_name_session ?>','<?php echo $product_name_session ?>','<?php echo $unit_session ?>','<?php echo $packing_size_session ?>','<?php $price_session ?>')"></i></td>
+
+line 13
+
+<total>
